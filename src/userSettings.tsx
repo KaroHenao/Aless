@@ -145,8 +145,8 @@ export const publicSaleSettings: PublicSaleSettings = {
   // date('29 2021 00:00:00 GMT')
 
   //Title and Description
-  title: "Public Sale",
-  desc: "Sale is now live. Mint your NFT below",
+  title: "¡NO TOQUES ESE BOTON MORADO!",
+  desc: "Que no lo toques te digo, fuchili. Eche palla",
 
   //Enable Custom HTML
   enableCustomHTML: false,

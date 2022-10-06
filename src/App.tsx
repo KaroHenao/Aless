@@ -70,31 +70,31 @@ const App = () => {
             <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
           </li>
           <li>
-            <a href="/#link1" onClick={toggleMenu}>
-              Link 1
+            <a href="https://i.pinimg.com/564x/71/d6/30/71d630dd92af477fadb5cae67ea30576.jpg" onClick={toggleMenu}>
+              hice
             </a>
           </li>
           <li>
-            <a href="/#link2" onClick={toggleMenu}>
-              Link 2
+            <a href="https://i.pinimg.com/564x/6c/57/48/6c5748a34b83c1450b6c305a7f5bdb2c.jpg" onClick={toggleMenu}>
+              esto
             </a>
           </li>
           <li>
-            <a href="/#link3" onClick={toggleMenu}>
-              Link 3
+            <a href="https://i.pinimg.com/564x/77/ec/1f/77ec1f5d9801c2dc207c041669aea5b1.jpg" onClick={toggleMenu}>
+              para
             </a>
           </li>
           <li>
-            <a href="/#link4" onClick={toggleMenu}>
-              Link 4
+            <a href="https://i.pinimg.com/564x/1e/63/8b/1e638b005f3ca088746522ca6e298dea.jpg" onClick={toggleMenu}>
+              alegrarte
             </a>
           </li>
           <li>
             <div className="social-icons">
-              <a href="https://twitter.com" target="_blank" rel="noreferrer">
+              <a href="https://www.youtube.com/watch?v=v4pi1LxuDHc&list=RDaXs3wFUcyzI&index=7" target="_blank" rel="noreferrer">
                 <img className="nav-social" src="/icons/twitter.svg" alt="" />
               </a>
-              <a href="https://discord.com" target="_blank" rel="noreferrer">
+              <a href="https://www.youtube.com/watch?v=DqsMQJS5900" target="_blank" rel="noreferrer">
                 <img className="nav-social" src="/icons/discord.svg" alt="" />
               </a>
             </div>
@@ -107,23 +107,23 @@ const App = () => {
       <nav>
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
-          <a className="hide-800" href="/#link1">
-            Link 1
+          <a className="hide-800" href="https://i.pinimg.com/564x/71/d6/30/71d630dd92af477fadb5cae67ea30576.jpg">
+            hice
           </a>
-          <a className="hide-800" href="/#link2">
-            Link 2
+          <a className="hide-800" href="https://i.pinimg.com/564x/6c/57/48/6c5748a34b83c1450b6c305a7f5bdb2c.jpg">
+            esto
           </a>
-          <a className="hide-800" href="/#link3">
-            Link 3
+          <a className="hide-800" href="https://i.pinimg.com/564x/77/ec/1f/77ec1f5d9801c2dc207c041669aea5b1.jpg">
+            para
           </a>
-          <a className="hide-800" href="/#link4">
-            Link 4
+          <a className="hide-800" href="https://i.pinimg.com/564x/1e/63/8b/1e638b005f3ca088746522ca6e298dea.jpg">
+            alegrarte
           </a>
           <div className="social-icons hide-800">
-            <a href="https://twitter.com" target="_blank" rel="noreferrer">
+            <a href="https://www.youtube.com/watch?v=v4pi1LxuDHc&list=RDaXs3wFUcyzI&index=7" target="_blank" rel="noreferrer">
               <img className="nav-social" src="/icons/twitter.svg" alt="" />
             </a>
-            <a href="https://discord.com" target="_blank" rel="noreferrer">
+            <a href="https://www.youtube.com/watch?v=DqsMQJS5900" target="_blank" rel="noreferrer">
               <img className="nav-social" src="/icons/discord.svg" alt="" />
             </a>
           </div>
@@ -132,15 +132,14 @@ const App = () => {
       <div className="content-wrapper">
         <header className="card" id="link1">
           <div style={{ padding: "0 24px 0 24px 0" }}>
-            <h3 className="text-secondary-color">Welcome To</h3>
-            <h1 className="pb-3">The Boiler Plate</h1>
+            <h3 className="text-secondary-color">Bienvenido a</h3>
+            <h1 className="pb-3">Mi millonesimo intento para que me pongas atención</h1>
             <p className="text-secondary-color">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-              scelerisque ipsum non est porta mollis. Donec sapien sapien,
-              dictum eget enim sed, hendrerit semper orci. Donec ante magna,
-              consequat at eros ac, eleifend dictum sem. Nam vitae condimentum
-              lorem. Vestibulum molestie dui turpis, tincidunt porta sem congue
-              nec.
+              No creo mucho en el destino, pero no tengo que explicar la existencia de la causalidad. Y no sé alguien reciba
+              mis agradecimientos, pero es la unica manera en la que puedo explicar lo que siento cuando te veo, cuando te siento, cuando te escucho,
+              cuando te admiro en silencio. Lo complementada que me siento contigo, lo suave y tranquilo que es el mundo a tu lado. No puedo hacer otra
+              cosa que agradecer porque estés vivo, porque tu corazonsito siga latiendo, tus pulmones llenandose de aire y tus neuronas construyendo la red
+              que te hace ser tu.
             </p>
           </div>
           <div>
@@ -163,55 +162,25 @@ const App = () => {
         </header>
 
         <div id="link2" className="container">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
-          aliquet, semper sapien sed, ornare augue. Phasellus sed velit
-          interdum, sagittis metus quis, facilisis lectus. Cras sollicitudin
-          purus at magna eleifend maximus. Nulla nec nulla in nunc maximus
-          viverra in at mauris. Fusce sodales dolor nisi, et vehicula orci porta
-          id. In placerat nunc sed erat lacinia tincidunt. Interdum et malesuada
-          fames ac ante ipsum primis in faucibus. Vestibulum commodo eget metus
-          vitae tempus. Aliquam pharetra mi at efficitur accumsan. Curabitur
-          venenatis libero a ex porttitor, at auctor turpis hendrerit. Nam
-          commodo, risus non consequat pretium, erat ante auctor purus, a cursus
-          dolor erat at velit. Maecenas dignissim, dolor sed laoreet aliquam,
-          tortor lacus faucibus urna, eget mattis massa sem ac dui. Nam semper
-          hendrerit interdum. Etiam at dictum nisi.
+          Soy libre, dentro de mi pequeño mundo soy libre; o al menos me gusta pensar que lo soy.
+          Pero inevitablemente también soy tuya, me hice tuya en el momento en el que comencé a
+          rezar silenciosamente por ti, por tu bienestar, en el momento en el que el cansancio le decía a mi cerebro
+          que el lugar más tranquilo y placido que podriamos estar no es dentro de las cobijas sino acariciandote el rostro en un día de lluvia y viendote descansar a mi lado.
         </div>
 
         <div id="link3" className="container card">
-          <h1 className="pb-3">Lorem ipsum</h1>
+          <h1 className="pb-3">Se supone que iba a hacer esto rapido para poder conectarme a ver Dark contigo, pero el codigo me presentaba fallos :c</h1>
         </div>
 
         <div id="link4" className="container faq">
-          <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
-          <div>
-            <h4>Lorem ipsum?</h4>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
-            </p>
-
-            <hr />
-          </div>
+          <h1 style={{ padding: "0 0 24px 0" }}>Se que me dices que no me preocupe por no contestarte, que no tengo ninguna obligación ni responsabilidad contigo, 
+          pero lo que no te digo es que más allá de querer que sientas mi atención constante en tí (porque la tienes), es que es la única manera que tengo en este 
+          momento de sentirme cerquita tuyo, y ojalá pudieras dimensionar la falta que me haces...</h1>
 
           <div>
-            <h4>Lorem ipsum?</h4>
+            <h4>Estoy muy muy muy pero que muy orgullosa de tí</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
-            </p>
-
-            <hr />
-          </div>
-
-          <div>
-            <h4>Lorem ipsum?</h4>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
+              Solecito, estoy tan tremendamente feliz porque 
             </p>
 
             <hr />
