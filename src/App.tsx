@@ -80,7 +80,7 @@ const App = () => {
             </a>
           </li>
           <li>
-            <a href="https://i.pinimg.com/564x/77/ec/1f/77ec1f5d9801c2dc207c041669aea5b1.jpg" onClick={toggleMenu}>
+            <a href="https://vm.tiktok.com/ZMFYNAJtJ/" onClick={toggleMenu}>
               para
             </a>
           </li>
@@ -113,7 +113,7 @@ const App = () => {
           <a className="hide-800" href="https://i.pinimg.com/564x/6c/57/48/6c5748a34b83c1450b6c305a7f5bdb2c.jpg">
             esto
           </a>
-          <a className="hide-800" href="https://i.pinimg.com/564x/77/ec/1f/77ec1f5d9801c2dc207c041669aea5b1.jpg">
+          <a className="hide-800" href="https://vm.tiktok.com/ZMFYNAJtJ/">
             para
           </a>
           <a className="hide-800" href="https://i.pinimg.com/564x/1e/63/8b/1e638b005f3ca088746522ca6e298dea.jpg">
@@ -180,7 +180,17 @@ const App = () => {
           <div>
             <h4>Estoy muy muy muy pero que muy orgullosa de tí</h4>
             <p>
-              Solecito, estoy tan tremendamente feliz porque 
+              Solecito, estoy tan tremendamente feliz porque despues de tanto tiempo de esfuerzo finalmente puedan estar viendo los frutos de tanto trabajo duro. Estoy tan orgullosa
+              de la fortaleza que tienes para enfrentar todos los obstaculos que la vida ha puesto en tu camino y magistralmente los has podidos sobrellevar, y no solamente ello,
+              sino que además arrebatarle un pedacito extra al mundo. Eres muy fuerte, mi niño, tengo la fortuna de tenerte cerca, tu me inspiras, me haces querer forzarme a ser mejor,
+              a sacudirme el polvo y continuar adelante. Tu habilidad para gestionar las emociones, combinada con tu impresionante cerebro con una inteligencia y capacidad de analisis
+              fuera de lo convencional, te convierten en una maquina indispensable para cualquier tipo de situación de alta demanda y precisión.
+
+              Me alegra saber que dentro de ese coraza de robot exista un corazonsito un poco mudo y tibio, pero que demuestra más de lo que dice. Que piensa más en el amor hacia otros
+              desde su bienestar que desde el efecto placebo que pueden alimentar los castillos de ilusiones de otros corazones... ya haya suficiente hambre en el mundo por andar comiendo
+              tantas ilusiones, ¿no es cierto?
+
+              Te quiero, solecito. Gracias por toda tu paciencia y gracias por dejarme permanecer en tu vida, espero que de alguna manera pueda devolverte un poco de todo lo que tu me aportas a mi.
             </p>
 
             <hr />
